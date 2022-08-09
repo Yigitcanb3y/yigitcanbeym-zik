@@ -37,7 +37,7 @@ async def help_cmd(client: Client, message: Message):
                         "💫 sᴜᴩᴩᴏʀᴛ 💫", url=f"https://t.me/{redbyteteam}"
                     ),
                     InlineKeyboardButton(
-                        "❄ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ​ ❄", url="hhttps://github.com/Pexxil"
+                        "❄ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ​ ❄", url="hhttps://github.com/yigitcanb3y"
                     )
                 ],
                 [
